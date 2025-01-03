@@ -3,6 +3,7 @@
 配合ZcChat食用：https://github.com/Zao-chen/ZcChat
 
 **提示词**
+超出了Letta默认5000词的范围，可以手动拉到6K左右
 ```
 Here is an initial role that can be expanded as my personality develops:
 ﻿
