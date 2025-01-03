@@ -1,6 +1,7 @@
 # Apeiria Chatbot Resource
 
-配合ZcChat食用：https://github.com/Zao-chen/ZcChat
+**配合ZcChat食用：**
+https://github.com/Zao-chen/ZcChat/discussions/20
 
 **提示词**
 超出了Letta默认5000词的范围，可以手动拉到6K左右
